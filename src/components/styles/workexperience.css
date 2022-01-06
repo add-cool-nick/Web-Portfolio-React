@@ -1,0 +1,25 @@
+.workexperience-section {
+    position: relative;
+    width: 100%;
+    background: url('/public/orange-2.jpg');
+    background-size: cover;
+}
+
+.workexperience-text {
+    color: white;
+    font-family: "Pacifico";
+}
+
+.workexperience-text-heading {
+    font-size: 8.5ch;
+    font-weight: 300;
+    text-align: center;
+}
+
+.org-logo {
+    width: 16vw;
+    height: 16vw;
+    margin: 5vw;
+    margin-top: 15vw;
+    margin-bottom: 15vw;
+}

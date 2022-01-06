@@ -1,0 +1,32 @@
+.skills-section {
+    position: relative;
+    width: 100%;
+    background: url('/public/black-1.jpg');
+    background-size: cover;
+    padding-bottom: 10vw;
+    padding-top: 5vw;
+}
+
+.skills-text {
+    color: white;
+    font-family: "Pacifico";
+}
+
+.skills-text-heading {
+    font-size: 10ch;
+    font-weight: 300;
+    margin-top: 15vw;
+    margin-bottom: 2rem;
+    text-align: center;
+}
+
+.skills-text-description {
+    font-size: 3ch;
+    font-weight: 200;
+    text-align: center;
+}
+
+.skills-table-div {
+    margin-top: 10vw;
+    margin-left: 5vw;
+}

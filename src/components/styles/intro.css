@@ -1,0 +1,56 @@
+.intro-section {
+    position: relative;
+    width: 100%;
+    left: 0px;
+    top: 0px;
+    background: url('/public/orange_background_1.jpg');
+    background-size: cover;
+    padding-bottom: 10rem;
+}
+
+.intro-text {
+    color: white;
+    font-family: "Pacifico";
+    margin-left: 10rem;
+}
+
+.intro-text-heading {
+    font-size: 10ch;
+    font-weight: 300;
+    margin-top: 10rem;
+    margin-bottom: 1rem;
+}
+
+.intro-text-description {
+    font-size: 5ch;
+    font-weight: 200;
+    margin-top: 0;
+}
+
+.intro-resume-button {
+    margin: 2rem;
+    font-family: "Pacifico";
+    align-items: center;
+    margin-bottom: 20rem;
+}
+
+.intro-linkedin-button {
+    margin: 2rem;
+    font-family: "Pacifico";
+    align-items: center;
+    margin-bottom: 20rem;
+}
+
+.blackBG {
+    background: url('/public/black-1.jpg');
+}
+
+a:link {
+    text-decoration: inherit;
+    color: inherit;
+}
+
+a:visited {
+    text-decoration: inherit;
+    color: inherit;
+}

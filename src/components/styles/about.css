@@ -1,0 +1,48 @@
+.about-section {
+    position: relative;
+    width: 100%;
+    background: url('/public/black-1.jpg');
+    background-size: cover;
+    padding-bottom: 10rem;
+}
+
+.about-text {
+    color: white;
+    font-family: "Pacifico";
+}
+
+.about-text-heading {
+    font-size: 10ch;
+    font-weight: 300;
+    text-align: center;
+    margin-top: 10rem;
+    margin-bottom: 2rem;
+}
+
+.about-text-description {
+    font-size: 3ch;
+    font-weight: 200;
+    margin-top: 0;
+    text-align: center;
+}
+
+.about-card {
+    position: relative;
+    height: 10vw;
+    width: 10vw;
+    border-radius: 50%;   
+    transition: background-image 1s ease; 
+    margin: 0;
+    background-color: white;
+}
+
+.about-card:hover {
+    background-image: radial-gradient(#FF8A00, #FF3D00);
+}
+
+.about-card-icon {
+    position: absolute;
+    top: 50%; left: 50%;
+    transform: translate(-50%,-50%);
+    margin: auto;
+}

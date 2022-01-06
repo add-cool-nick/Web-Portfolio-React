@@ -1,0 +1,37 @@
+.projects-section {
+    position: relative;
+    width: 100%;
+    background: url('/public/orange-3.jpg');
+    background-size: cover;
+    padding-bottom: 10rem;
+}
+
+.projects-text {
+    color: white;
+    font-family: "Pacifico";
+}
+
+.projects-text-heading {
+    font-size: 10ch;
+    font-weight: 300;
+    margin-top: 15rem;
+    margin-bottom: 2rem;
+    text-align: center;
+}
+
+.projects-text-description {
+    font-size: 3ch;
+    font-weight: 200;
+    margin-top: 0;
+    text-align: center;
+}
+
+a:link {
+    text-decoration: inherit;
+    color: inherit;
+}
+
+a:visited {
+    text-decoration: inherit;
+    color: inherit;
+}
